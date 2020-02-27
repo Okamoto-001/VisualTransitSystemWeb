@@ -19,7 +19,7 @@ You can SSH using a Windows machine with Git Bash.
 ```
 
 
-ssh -L <port number>:127.0.0.1:<port_number> edu
+ssh -L <port number>:127.0.0.1:<port_number>
 ```
 
 1. Navigate to base project directory(project/)  
